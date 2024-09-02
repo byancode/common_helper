@@ -3,7 +3,7 @@ plugins {
     id 'kotlin-android'
     id 'maven-publish'
 }
-group = 'com.github.gfslx999'
+group = 'com.github.byancode'
 def commonGroupId = 'com.freedom.commmon_helper'
 def commonArtifactId = 'gao'
 def commonVersionName = "1.0"

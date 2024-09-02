@@ -41,7 +41,7 @@ repositories {
 #### 在app/build.gradle
 
 ```kotlin
-    implementation 'com.github.gfslx999.common_helper:gao:$newVersion' //newVersion就是上面图标里的 v.xx.xx
+    implementation 'com.github.byancode.common_helper:gao:$newVersion' //newVersion就是上面图标里的 v.xx.xx
 ```
 
 ### 初始化
